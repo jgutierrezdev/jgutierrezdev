@@ -17,7 +17,6 @@ Hi, I'm José Gutiérrez!
 💻 I am a self taught Full Stack Developer and a Data Analyst
 🌟 Main languages: Java, Python, TypeScript
 🚩 Interested in Full Stack Application development
-📄 Visit my website <a href="https://jgutierrez.dev/" target="_blank">website.</a>
 🤔 I'm currently open for: <b>Job opportunity</b> or <b>project development</b>, this is <a href="https://jgutierrez.dev/resume" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
